@@ -1,0 +1,2 @@
+# stockevaluator
+stock auto evaluation
